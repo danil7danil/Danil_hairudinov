@@ -1,1 +1,1 @@
-vless://580c2e71-41b5-4fc8-8864-3b423ddfc8a2@78.40.111.84:443?security=reality&encryption=none&pbk=Q-93YlNQl1CiLc2MqlYc2IiCSFcnVzMfxT8lAgjdcHg&headerType=none&fp=android&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ir.ozone.ru&sid=9c2378562188c3cb#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%D0%A1%D0%BE%D0%BA%D1%81%D0%B1%D1%83%D1%80%D0%B3%20%7C%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%233
+
