@@ -1,2 +1,3 @@
-https://raw.githubusercontent.com/danil7danil/Danil_hairudinov/main/Confg2.json
-https://raw.githubusercontent.com/danil7danil/Danil_hairudinov/main/config.json
+https://raw.githubusercontent.com/danil7danil/Danil_hairudinov/refs/heads/main/config_1.json
+
+https://raw.githubusercontent.com/danil7danil/Danil_hairudinov/refs/heads/main/Config_2.json
